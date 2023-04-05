@@ -1,5 +1,7 @@
 # Luke Overbey
 
+I have been coding for almost 6 years but recently focused on web development near the end of my education at UTSA, where I graduated with a Bachelor of Science in Computer Science! I combine technology with artistry, creating visually stunning websites with code, design, and UX skills. I love creating dynamic web apps that engage users and solve complex problems. I'm always adopting new tools and languages to improve my workflow. I am constantly exploring new ideas and experimenting with different approaches to coding, pushing the boundaries of what is possible.
+
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/askkew)
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://lucasoverbey.dev/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luke-overbey-37b342235/)
